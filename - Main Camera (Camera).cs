@@ -1,3 +1,4 @@
+'''
 - Main Camera (Camera)
 - Canvas (Canvas 元件)
    - Panel (Grid Layout Group)
@@ -15,9 +16,9 @@
 - EventSystem (自動生成)
 - GameManager (TicTacToeManager 腳本)
 script in game
+'''
 
-
-    using UnityEngine;
+using UnityEngine;
 using UnityEngine.UI;
 
 public class TicTacToeManager : MonoBehaviour
